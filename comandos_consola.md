@@ -14,5 +14,6 @@
 - git remote -v ---(Ver a qué repo estás conectado)
 - git remote set-url origin https://github... ---(Cambiar la URL del repo)
 - git clone https://github.com/USUARIO/REPO.git ---(Clonar otro repositorio)
+- git pull --rebase origin main  ---(GitHub (remoto) tiene cambios que tu carpeta local no tiene)
 
 
