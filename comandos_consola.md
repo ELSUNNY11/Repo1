@@ -13,8 +13,6 @@
 - git log ---(Ver historial de commits en una sola línea por cada uno.)
 - git remote -v ---(Ver a qué repo estás conectado)
 - git remote set-url origin https://github... ---(Cambiar la URL del repo)
-- git remote remove origin
-git remote add origin https://github.com/USUARIO/NUEVO-REPO.git ---(Quitar el repo y poner otro nuevo)
 - git clone https://github.com/USUARIO/REPO.git ---(Clonar otro repositorio)
 
 
